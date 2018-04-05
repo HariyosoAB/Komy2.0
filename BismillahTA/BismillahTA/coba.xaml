@@ -1,0 +1,20 @@
+﻿<Window x:Class="BismillahTA.coba"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="clr-namespace:Microsoft.Kinect;assembly=Microsoft.Kinect"
+        xmlns:WpfViewers="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers"
+        Title="coba" Height="600" Width="800" Loaded="UserControl_Loaded" Closed="Window_Closed">
+    <Grid>
+        <Canvas>
+
+            <WpfViewers:KinectColorViewer Name="kinectColorViewer" Height="480" Canvas.Left="21" Canvas.Top="23" Width="640" Kinect="{Binding Kinect, ElementName=kinectSensorChooser}"/>
+            <WpfViewers:KinectSensorChooser Name="kinectSensorChooser" Height="111" Canvas.Left="45" Canvas.Top="130" Width="217"/>
+            <Ellipse Name="head" HorizontalAlignment="Left" Height="40"  VerticalAlignment="Top" Width="40" Fill="Red" Canvas.Left="74" Canvas.Top="47"/>
+            <Ellipse Name="leftHand" Fill="Aqua" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="40" Canvas.Left="132" Canvas.Top="47"/>
+            <Ellipse Name="rightHand" Fill="Bisque" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="40" Canvas.Left="24" Canvas.Top="73"/>
+            <Ellipse Name="leftFoot" Fill="Magenta" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="40" RenderTransformOrigin="-1.688,-6.495" Canvas.Left="92" Canvas.Top="107"/>
+            <Ellipse Name="rightFoot" Fill="Maroon" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="40" RenderTransformOrigin="6.255,-8.584" Canvas.Left="29" Canvas.Top="28"/>
+          
+        </Canvas>
+    </Grid>
+</Window>

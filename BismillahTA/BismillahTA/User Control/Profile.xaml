@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="BismillahTA.User_Control.Profile"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="557" d:DesignWidth="943">
+    <Grid Name="myGrid" Background="WhiteSmoke" Loaded="Grid_Loaded">
+        <TextBlock HorizontalAlignment="Left" Margin="41,35,0,0" TextWrapping="Wrap" Text="Pasien" VerticalAlignment="Top" FontFamily="verdana" FontSize="40" Foreground="#2980b9"/>
+        <TextBlock HorizontalAlignment="Left" Margin="502,35,0,0" TextWrapping="Wrap" Text="Terapis" VerticalAlignment="Top" FontFamily="verdana" FontSize="40" Foreground="#2980b9"/>
+        <Border BorderBrush="#FFDDDDDD" BorderThickness="2" Height="509" Margin="22,22,488,0" VerticalAlignment="Top"/>
+        <Border BorderBrush="#FFDDDDDD" BorderThickness="2" Height="509" Margin="482,22,25,0" VerticalAlignment="Top"/>
+        <Label Content="Nama" HorizontalAlignment="Left" Height="30" Margin="41,110,0,0" VerticalAlignment="Top" Width="97" FontFamily="verdana" FontSize="15"/>
+        <Label Content="Usia" HorizontalAlignment="Left" Height="30" Margin="41,164,0,0" VerticalAlignment="Top" Width="97" FontFamily="verdana" FontSize="15"/>
+        <Label Content="Jenis Kelamin" HorizontalAlignment="Left" Height="30" Margin="41,218,0,0" VerticalAlignment="Top" Width="118" FontFamily="verdana" FontSize="15"/>
+        <Label Content="Alamat" HorizontalAlignment="Left" Height="30" Margin="41,272,0,0" VerticalAlignment="Top" Width="97" FontFamily="verdana" FontSize="15"/>
+        <Label Name="labelNameTherapist" Content="Nama" HorizontalAlignment="Left" Height="30" Margin="513,110,0,0" VerticalAlignment="Top" Width="125" FontFamily="verdana" FontSize="15"/>
+        <Label Name="labelAgeTherapist" Content="Usia" HorizontalAlignment="Left" Height="30" Margin="513,164,0,0" VerticalAlignment="Top" Width="97" FontFamily="verdana" FontSize="15"/>
+        <Label Name="labelGenderTherapist" Content="Jenis Kelamin" HorizontalAlignment="Left" Height="30" Margin="513,218,0,0" VerticalAlignment="Top" Width="118" FontFamily="verdana" FontSize="15"/>
+        <Label Name="labelAddressTherapist" Content="Alamat" HorizontalAlignment="Left" Height="30" Margin="513,272,0,0" VerticalAlignment="Top" Width="97" FontFamily="verdana" FontSize="15"/>
+        <Label Name="labelContactTherapist" Content="Telepon" HorizontalAlignment="Left" Height="30" Margin="513,326,0,0" VerticalAlignment="Top" Width="97" FontFamily="verdana" FontSize="15"/>
+        <TextBox Name="patientName" HorizontalAlignment="Left" Height="30" Margin="178,110,0,0" VerticalAlignment="Top" Width="260" FontFamily="verdana" FontSize="15" Foreground="#2980b9"/>
+        <TextBox Name="patientAge" HorizontalAlignment="Left" Height="30" Margin="178,164,0,0" VerticalAlignment="Top" Width="260" FontFamily="verdana" FontSize="15" Foreground="#2980b9"/>
+        <TextBox Name="patientGender" HorizontalAlignment="Left" Height="30" Margin="178,218,0,0" VerticalAlignment="Top" Width="260" FontFamily="verdana" FontSize="15" Foreground="#2980b9"/>
+        <TextBox Name="patientAddress" HorizontalAlignment="Left" Height="30" Margin="178,272,0,0" VerticalAlignment="Top" Width="260" FontFamily="verdana" FontSize="15" Foreground="#2980b9"/>
+        <TextBox Name="therapistName" HorizontalAlignment="Left" Height="30" Margin="643,110,0,0" VerticalAlignment="Top" Width="260" FontFamily="verdana" FontSize="15" Foreground="#2980b9"/>
+        <TextBox Name="therapistAge" HorizontalAlignment="Left" Height="30" Margin="643,164,0,0" VerticalAlignment="Top" Width="260" FontFamily="verdana" FontSize="15" Foreground="#2980b9"/>
+        <TextBox Name="therapistGender" HorizontalAlignment="Left" Height="30" Margin="643,218,0,0" VerticalAlignment="Top" Width="260" FontFamily="verdana" FontSize="15" Foreground="#2980b9"/>
+        <TextBox Name="therapistAddress" HorizontalAlignment="Left" Height="30" Margin="643,272,0,0" VerticalAlignment="Top" Width="260" FontFamily="verdana" FontSize="15" Foreground="#2980b9"/>
+        <TextBox Name="therapistContact" HorizontalAlignment="Left" Height="30" Margin="643,326,0,0" VerticalAlignment="Top" Width="260" FontFamily="verdana" FontSize="15" Foreground="#2980b9"/>
+        <Button Name="changePatientButton" Content="Ubah" HorizontalAlignment="Left" Height="40" Margin="324,332,0,0" VerticalAlignment="Top" Width="114" FontSize="20" Foreground="#FFF9F3F3" Background="#FF2980B9" BorderBrush="{x:Null}" Click="changePatientButton_Click" FontFamily="Verdana" >
+            <Button.Effect>
+                <DropShadowEffect Color="#FF2980B9"/>
+            </Button.Effect>
+        </Button>
+        <Button Name="changeTherapistButton" Content="Ubah" HorizontalAlignment="Left" Height="40" Margin="789,387,0,0" VerticalAlignment="Top" Width="114" FontSize="20" Foreground="#FFF9F3F3" Background="#FF2980B9" BorderBrush="{x:Null}" Click="changeTherapistButton_Click" FontFamily="Verdana" >
+            <Button.Effect>
+                <DropShadowEffect Color="#FF2980B9"/>
+            </Button.Effect>
+        </Button>
+        <Button Name="savePatientButton" Content="Simpan" HorizontalAlignment="Left" Height="40" Margin="324,387,0,0" VerticalAlignment="Top" Width="114" FontSize="20" Foreground="#FFF9F3F3" Background="#FF2980B9" BorderBrush="{x:Null}" Click="savePatientButton_Click" FontFamily="Verdana" >
+            <Button.Effect>
+                <DropShadowEffect Color="#FF2980B9"/>
+            </Button.Effect>
+        </Button>
+        <Button Name="saveTherapistButton" Content="Simpan" HorizontalAlignment="Left" Height="40" Margin="789,443,0,0" VerticalAlignment="Top" Width="114" FontSize="20" Foreground="#FFF9F3F3" Background="#FF2980B9" BorderBrush="{x:Null}" Click="saveTherapistButton_Click" FontFamily="Verdana" >
+            <Button.Effect>
+                <DropShadowEffect Color="#FF2980B9"/>
+            </Button.Effect>
+        </Button>
+
+    </Grid>
+</UserControl>

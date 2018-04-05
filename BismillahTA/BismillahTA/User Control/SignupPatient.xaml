@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="BismillahTA.User_Control.SignupPatient"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             Width="470" Height="558">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/BismillahTA;component/Image/background.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <TextBlock Text="Registrasi Pasien" HorizontalAlignment="Left" Height="65" Margin="24,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="351" FontFamily="Berlin Sans FB Demi" FontSize="50" Foreground="#FFFFCC28"/>
+        <TextBox Name="patientName" Height="31" Margin="172,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" BorderBrush="#FFFFCC28" FontSize="16" FontFamily="Berlin Sans FB Demi" VerticalContentAlignment="Center" Padding="5,0" HorizontalAlignment="Left" Width="252"/>
+        <TextBox Name="age" Height="31" Margin="172,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" VerticalContentAlignment="Center" Padding="5,0" FontSize="16" FontFamily="Berlin Sans FB Demi" BorderBrush="#FFFFCC28" HorizontalAlignment="Left" Width="66"/>
+        <RadioButton Name="male" Content="Laki-Laki" Height="21" Margin="172,238,0,0" VerticalAlignment="Top" Foreground="#FFFFCC28" BorderBrush="#FFFFCC28" FontFamily="Berlin Sans FB Demi" FontSize="16" HorizontalAlignment="Left" Width="138"/>
+        <RadioButton Name="female" Content="Perempuan" Height="21" Margin="309,238,0,0" VerticalAlignment="Top" Foreground="#FFFFCC28" FontSize="16" FontFamily="Berlin Sans FB Demi" BorderBrush="#FFFFCC28" HorizontalAlignment="Left" Width="115"/>
+        <TextBox Name="username" Height="31" Margin="172,282,0,0" TextWrapping="Wrap" VerticalAlignment="Top" BorderBrush="#FFFFCC28" FontFamily="Berlin Sans FB Demi" FontSize="16" Padding="5,0" VerticalContentAlignment="Center" HorizontalAlignment="Left" Width="252"/>
+        <TextBox Name="password" Height="31" Margin="172,334,0,0" TextWrapping="Wrap" VerticalAlignment="Top" VerticalContentAlignment="Center" Padding="5,0" FontSize="16" FontFamily="Berlin Sans FB Demi" BorderBrush="#FFFFCC28" HorizontalAlignment="Left" Width="252"/>
+        <Image Name="loginButton" HorizontalAlignment="Left" Height="37" Margin="318,386,0,0" VerticalAlignment="Top" Width="106" Source="/BismillahTA;component/Image/button/registerButton.png" MouseUp="loginButton_MouseUp"/>
+        <Image Name="backButton" HorizontalAlignment="Left" Height="37" Margin="172,386,0,0" VerticalAlignment="Top" Width="106" Source="/BismillahTA;component/Image/button/backButton.png" MouseUp="backButton_MouseUp"/>
+        <Label Content="Nama Pasien" HorizontalAlignment="Left" Height="31" Margin="24,126,0,0" VerticalAlignment="Top" Width="116" Foreground="#FFFFCC28" FontSize="18" FontFamily="Berlin Sans FB Demi"/>
+        <Label Content="Usia" HorizontalAlignment="Left" Height="31" Margin="24,178,0,0" VerticalAlignment="Top" Width="97" Foreground="#FFFFCC28" FontSize="18" FontFamily="Berlin Sans FB Demi"/>
+        <Label Content="Jenis Kelamin" HorizontalAlignment="Left" Height="31" Margin="24,230,0,0" VerticalAlignment="Top" Width="97" Foreground="#FFFFCC28" FontSize="18" FontFamily="Berlin Sans FB Demi"/>
+        <Label Content="Username" HorizontalAlignment="Left" Height="31" Margin="24,282,0,0" VerticalAlignment="Top" Width="97" Foreground="#FFFFCC28" FontSize="18" FontFamily="Berlin Sans FB Demi"/>
+        <Label Content="Password" HorizontalAlignment="Left" Height="31" Margin="24,334,0,0" VerticalAlignment="Top" Width="97" Foreground="#FFFFCC28" FontSize="18" FontFamily="Berlin Sans FB Demi"/>
+        <Label Content="Tahun" HorizontalAlignment="Left" Height="31" Margin="243,178,0,0" VerticalAlignment="Top" Width="97" Foreground="#FFFFCC28" FontSize="18" FontFamily="Berlin Sans FB Demi"/>
+        <Label Name="label" HorizontalAlignment="Left" Height="40" Margin="24,488,0,0" VerticalAlignment="Top" Width="330" Foreground="Red"/>
+
+    </Grid>
+</UserControl>

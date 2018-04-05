@@ -1,0 +1,562 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A15BCD3D-04B9-409C-A07E-4F516192C31B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BismillahTA</RootNamespace>
+    <AssemblyName>BismillahTA</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>komy.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Coding4Fun.Kinect.Wpf">
+      <HintPath>C:\Users\Rizka Wakhidatus S\Documents\Visual Studio 2013\Projects\TrySkeletonTracking\Coding4Fun.Kinect.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Kinect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Rizka Wakhidatus S\Documents\Visual Studio 2013\Projects\TrySkeletonTracking\TrySkeletonTracking\Microsoft.Kinect.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Controls.DataVisualization.Toolkit, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Windows.Controls.DataVisualization.Toolkit.4.0.0.0\lib\net40-Client\System.Windows.Controls.DataVisualization.Toolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="HelpKalibrasi.xaml.cs">
+      <DependentUpon>HelpKalibrasi.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HelpTask1.xaml.cs">
+      <DependentUpon>HelpTask1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HelpTask2.xaml.cs">
+      <DependentUpon>HelpTask2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HelpTask4.xaml.cs">
+      <DependentUpon>HelpTask4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HelpTask3.xaml.cs">
+      <DependentUpon>HelpTask3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="note.xaml.cs">
+      <DependentUpon>note.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SqlConnector.cs" />
+    <Compile Include="User Control\aboutUs.xaml.cs">
+      <DependentUpon>aboutUs.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\BaseUserControl.xaml.cs">
+      <DependentUpon>BaseUserControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\Calibration.xaml.cs">
+      <DependentUpon>Calibration.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\chooseBalance.xaml.cs">
+      <DependentUpon>chooseBalance.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\chooseObject.xaml.cs">
+      <DependentUpon>chooseObject.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\FirstPage.xaml.cs">
+      <DependentUpon>FirstPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\FirstStandingBalance.xaml.cs">
+      <DependentUpon>FirstStandingBalance.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\levelTherapy.xaml.cs">
+      <DependentUpon>levelTherapy.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\login2.xaml.cs">
+      <DependentUpon>login2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\Menu.xaml.cs">
+      <DependentUpon>Menu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\Profile.xaml.cs">
+      <DependentUpon>Profile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\Report.xaml.cs">
+      <DependentUpon>Report.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\SecondStandingBalance.cs" />
+    <Compile Include="User Control\Signup.xaml.cs">
+      <DependentUpon>Signup.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\Task1.xaml.cs">
+      <DependentUpon>Task1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\Task2.xaml.cs">
+      <DependentUpon>Task2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\Task4.xaml.cs">
+      <DependentUpon>Task4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\Task3.xaml.cs">
+      <DependentUpon>Task3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\TrunkControlTask.xaml.cs">
+      <DependentUpon>TrunkControlTask.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User Control\videoTutorial.xaml.cs">
+      <DependentUpon>videoTutorial.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Video.xaml.cs">
+      <DependentUpon>Video.xaml</DependentUpon>
+    </Compile>
+    <Page Include="HelpKalibrasi.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HelpTask1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HelpTask2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HelpTask4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HelpTask3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="note.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\aboutUs.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\BaseUserControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\Calibration.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\chooseBalance.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\chooseObject.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\FirstPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="User Control\FirstStandingBalance.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\levelTherapy.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\login2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\Menu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\Profile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\Report.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\Signup.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\Task1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\Task2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\Task4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\Task3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\TrunkControlTask.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User Control\videoTutorial.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Video.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+    <None Include="User Control\ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KinectWpfViewers\Microsoft.Samples.Kinect.WpfViewers.csproj">
+      <Project>{4DE23893-27E7-423F-9BB6-BA21DAC2C45E}</Project>
+      <Name>Microsoft.Samples.Kinect.WpfViewers</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="komy.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stage3Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stage3Unactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\startUnactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\task1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\task2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\task3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\task4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\tutorialvideo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\aboutus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\capture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\captureUnactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\finish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\notes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\notesUnactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\saveUnactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\signup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stage1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stage1Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stage1Unactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stage2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stage2Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stage2Unactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stage3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\tennis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\volley.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\apple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\banana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\basket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\butterfly.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\dolphin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\duck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\elephant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\football.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\leftStep.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\note-false.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\note-right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\rightStep.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\strawberry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stand1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stand2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stand-front1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\stand-front2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\walk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\foot-left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\foot-right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\sit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\sit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\nextButton3-v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\backButton3-v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\backgroundInstruction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\backgroundScore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\backgroundTime.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\backgroundX.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\backgroundY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\icon-video-before-play.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\komy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\komySmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\lockLevel3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\circle.png" />
+    <Resource Include="Resources\triangle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\star.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="BismillahTA.User_Control.login2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="645" d:DesignWidth="430">
+    <Grid Background="{DynamicResource {x:Static SystemColors.GradientActiveCaptionBrushKey}}">
+        <TextBlock HorizontalAlignment="Left" Height="63" Margin="24,10,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top" Width="144" FontFamily="Verdana" FontSize="50" Foreground="#2980b9"/>
+        <TextBox Name="username" TabIndex="0" Height="38" Margin="181,124,19,0" TextWrapping="Wrap" VerticalAlignment="Top" VerticalContentAlignment="Center" BorderBrush="#FF5D83B9" FontFamily="Verdana" FontSize="15"/>
+        <Label Content="Username" HorizontalAlignment="Left" Height="38" Margin="24,124,0,0" VerticalAlignment="Top" Width="144" FontFamily="Verdana" FontSize="25" Foreground="#2980b9"/>
+        <Label Content="Password" HorizontalAlignment="Left" Height="38" Margin="24,190,0,0" VerticalAlignment="Top" Width="144" FontFamily="Verdana" FontSize="25" Foreground="#2980b9"/>
+        <Label Name="errorLabel" HorizontalAlignment="Left" Height="45" Margin="24,317,0,0" VerticalAlignment="Top" Width="387" FontFamily="Verdana" FontSize="15" Foreground="Red"/>
+        <ComboBox Name="comboTherapist" TabIndex="3" Height="38" Margin="181,255,19,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="15"/>
+        <Label Content="Terapis" HorizontalAlignment="Left" Height="38" Margin="24,255,0,0" VerticalAlignment="Top" Width="115" FontFamily="Verdana" FontSize="25" Foreground="#2980b9"/>
+        <PasswordBox TabIndex="1" Name="password" Height="38" Margin="181,190,19,0" VerticalAlignment="Top" FontSize="15" VerticalContentAlignment="Center"/>
+        <Button Content="Masuk" Height="39" Margin="289,388,0,0" VerticalAlignment="Top" FontFamily="verdana" FontSize="25" Foreground="WhiteSmoke" Background="#FF2980B9" BorderBrush="{x:Null}" Click="Button_Click" HorizontalAlignment="Left" Width="122">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF2980B9" />
+            </Button.Effect>
+        </Button>
+    </Grid>
+</UserControl>

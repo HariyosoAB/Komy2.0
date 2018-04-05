@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="BismillahTA.User_Control.Home"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="737" d:DesignWidth="1016">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/BismillahTA;component/Image/background.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Image Name="login" Margin="548,23,373,0" Source="/BismillahTA;component/Image/button/login.png" Height="95" VerticalAlignment="Top" MouseUp="login_MouseUp" />
+        <Image Name="register" Margin="685,23,236,0" Height="95" Source="/BismillahTA;component/Image/button/signupButton.png" VerticalAlignment="Top" MouseUp="register_MouseUp" />
+        <Image Name="aboutUs" Margin="822,23,99,0" Height="95" Source="/BismillahTA;component/Image/button/aboutUsButton.png" VerticalAlignment="Top" />
+    </Grid>
+</UserControl>

@@ -1,0 +1,19 @@
+﻿<Window x:Class="BismillahTA.HelpTask4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HelpLevel3" Height="700" Width="1200">
+    <Grid>
+        <TextBlock Height="59" Margin="191,19,204,0" TextWrapping="Wrap" Text="Level 4 : Berjalan" VerticalAlignment="Top" FontFamily="verdana" FontSize="30" Foreground="#FF158DB9" TextAlignment="Center"/>
+        <Image Height="160" Margin="328,83,337,0" VerticalAlignment="Top" Source="Resources/walk.png"/>
+        <Border BorderBrush="#FF158DB9" BorderThickness="1" Height="281" Margin="78,264,95,0" VerticalAlignment="Top"/>
+        <Label Content="Langkah-Langkah" Height="39" Margin="111,347,869,0" VerticalAlignment="Top" FontFamily="verdana" FontSize="20"/>
+        <Label x:Name="DescriptionLabel" HorizontalAlignment="Left" Height="65" Margin="111,277,0,0" VerticalAlignment="Top" Width="939" FontFamily="verdana" FontSize="15"/>
+        <Label x:Name="InstructionLabel" Height="115" Margin="111,391,134,0" VerticalAlignment="Top" FontFamily="verdana" FontSize="15"/>
+        <Button x:Name="finish" Content="Selesai" Height="43" Margin="970,574,95,0" VerticalAlignment="Top" FontFamily="verdana" FontSize="25" Foreground="WhiteSmoke" Background="#FF2980B9" BorderBrush="{x:Null}" Click="finish_Click">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF2980B9"/>
+            </Button.Effect>
+        </Button>
+
+    </Grid>
+</Window>

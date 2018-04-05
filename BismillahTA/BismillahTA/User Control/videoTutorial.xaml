@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="BismillahTA.User_Control.videoTutorial"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="557" d:DesignWidth="943">
+    <Grid Background="WhiteSmoke">
+        <Rectangle HorizontalAlignment="Left" Height="360" Margin="49,22,0,0" VerticalAlignment="Top" Width="640">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/BismillahTA;component/Resources/icon-video-before-play.JPG"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <MediaElement Name="videoElement" HorizontalAlignment="Left" Height="360" Margin="49,22,0,0" VerticalAlignment="Top" Width="640" LoadedBehavior="Manual" UnloadedBehavior="Stop"/>
+        <Button Name="playButton" Content="Mainkan" HorizontalAlignment="Left" Height="40" Margin="58,459,0,0" VerticalAlignment="Top" Width="114" FontSize="20" Foreground="#FFF9F3F3" Background="#FF2980B9" BorderBrush="{x:Null}" FontFamily="Verdana" Click="playButton_Click" >
+            <Button.Effect>
+                <DropShadowEffect Color="#FF2980B9"/>
+            </Button.Effect>
+        </Button>
+        <Button Name="pauseButton" Content="Pause" HorizontalAlignment="Left" Margin="203,459,0,0" Width="114" FontSize="20" Foreground="#FFF9F3F3" Background="#FF2980B9" BorderBrush="{x:Null}" FontFamily="Verdana" Click="pauseButton_Click" Height="40" VerticalAlignment="Top" >
+            <Button.Effect>
+                <DropShadowEffect Color="#FF2980B9"/>
+            </Button.Effect>
+        </Button>
+        <Button Name="stopButton" Content="Berhenti" HorizontalAlignment="Left" Margin="346,459,0,0" Width="114" FontSize="20" Foreground="#FFF9F3F3" Background="#FF2980B9" BorderBrush="{x:Null}" FontFamily="Verdana" Click="stopButton_Click" Height="42" VerticalAlignment="Top" >
+            <Button.Effect>
+                <DropShadowEffect Color="#FF2980B9"/>
+            </Button.Effect>
+        </Button>
+        <Label Content="Lihat level :" HorizontalAlignment="Left" Height="28" Margin="767,22,0,0" VerticalAlignment="Top" Width="104" Foreground="#2980b9" FontSize="16"/>
+        <ComboBox x:Name="videoCombo" HorizontalAlignment="Left" Height="28" Margin="773,58,0,0" VerticalAlignment="Top" Width="160"/>
+        <Button x:Name="chooseButton" Content="Pilih" HorizontalAlignment="Left" Height="34" Margin="773,104,0,0" VerticalAlignment="Top" Width="81" FontSize="18" Foreground="#FFF9F3F3" Background="#FF2980B9" BorderBrush="{x:Null}" Click="chooseButton_Click">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF2980B9"/>
+            </Button.Effect>
+        </Button>
+
+    </Grid>
+</UserControl>

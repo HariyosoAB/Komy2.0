@@ -1,0 +1,711 @@
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe.config
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\bin\Debug\BismillahTA.pdb
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csprojResolveAssemblyReference.cache
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\MainWindow.baml
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\MainWindow.g.cs
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\App.g.cs
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\BismillahTA_MarkupCompile.cache
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\BismillahTA.g.resources
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\BismillahTA.Properties.Resources.resources
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csproj.GenerateResource.Cache
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\BismillahTA.exe
+c:\users\rizka\documents\visual studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\BismillahTA.pdb
+C:\Users\Rizka\Documents\Visual Studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\Controll\Home.baml
+C:\Users\Rizka\Documents\Visual Studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\Controll\Home.g.cs
+C:\Users\Rizka\Documents\Visual Studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\Controll\login.baml
+C:\Users\Rizka\Documents\Visual Studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\Controll\login.g.cs
+C:\Users\Rizka\Documents\Visual Studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\Controll\RegisterPatient.baml
+C:\Users\Rizka\Documents\Visual Studio 2013\Projects\BismillahTA\BismillahTA\obj\Debug\Controll\RegisterPatient.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe.config
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.exe
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.pdb
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.pdb
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csprojResolveAssemblyReference.cache
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\App.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_MarkupCompile.cache
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.g.resources
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.Properties.Resources.resources
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csproj.GenerateResource.Cache
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Home.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Login.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\SignupPatient.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Home.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Login.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\SignupPatient.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\SignupTherapist.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\SignupTherapist.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\instructionLevel1.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\instructionLevel1.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\InstructionLevel2.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\InstructionLevel3.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\InstructionLevel4.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\InstructionLevel2.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\InstructionLevel3.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\InstructionLevel4.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Setting.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Setting.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.xml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\coba.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\coba.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\coba.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\BismillahTA\BismillahTA\obj\Debug\coba.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe.config
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.exe
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.pdb
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.pdb
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csprojResolveAssemblyReference.cache
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Setting.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Setting.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\App.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_MarkupCompile.cache
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.g.resources
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.Properties.Resources.resources
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csproj.GenerateResource.Cache
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_Content.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe.config
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.exe
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.pdb
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.pdb
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csprojResolveAssemblyReference.cache
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Setting.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Setting.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\App.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_Content.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_MarkupCompile.cache
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.g.resources
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.Properties.Resources.resources
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csproj.GenerateResource.Cache
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\note.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\note.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.dll
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.pdb
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.dll
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.pdb
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\note.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\note.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.baml
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.g.cs
+C:\Users\Rizka Wakhidatus S\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.g.cs
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel4.baml
+C:\Users\Rizka\Documents\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel4.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe.config
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.exe
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.pdb
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.pdb
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.dll
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.xml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.pdb
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csprojResolveAssemblyReference.cache
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel4.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\note.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Setting.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.baml
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel4.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\note.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Setting.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\App.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_Content.g.cs
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_MarkupCompile.cache
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.g.resources
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.Properties.Resources.resources
+F:\KULIAH\BELAJAR\SEMESTER 8\TA\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csproj.GenerateResource.Cache
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe.config
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.exe
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.pdb
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.pdb
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.dll
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.pdb
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csprojResolveAssemblyReference.cache
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel4.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\note.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Setting.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel4.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\note.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Setting.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\App.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_Content.g.cs
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_MarkupCompile.cache
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.g.resources
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.Properties.Resources.resources
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csproj.GenerateResource.Cache
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.baml
+C:\Users\Rizka\Documents\TA\TA\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe.config
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.exe
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.pdb
+D:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe
+D:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.pdb
+D:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+D:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+D:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csprojResolveAssemblyReference.cache
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel4.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\note.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel4.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\note.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\App.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_Content.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_MarkupCompile.cache
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.g.resources
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.Properties.Resources.resources
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csproj.GenerateResource.Cache
+F:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe.config
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.exe
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.pdb
+F:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe
+F:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.pdb
+F:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+F:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.dll
+F:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+F:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.xml
+F:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.pdb
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csprojResolveAssemblyReference.cache
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\note.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\note.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\App.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_Content.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_MarkupCompile.cache
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.g.resources
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.Properties.Resources.resources
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csproj.GenerateResource.Cache
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\videoTutorial.baml
+D:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\videoTutorial.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\videoTutorial.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\videoTutorial.g.cs
+D:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.dll
+D:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.pdb
+I:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe.config
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.exe
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.pdb
+I:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe
+I:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.pdb
+I:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+I:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+I:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.dll
+I:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+I:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.xml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csprojResolveAssemblyReference.cache
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel4.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\note.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\videoTutorial.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel4.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\note.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\videoTutorial.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\App.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_Content.g.cs
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_MarkupCompile.cache
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.g.resources
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.Properties.Resources.resources
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csproj.GenerateResource.Cache
+I:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.dll
+I:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.pdb
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe.config
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.exe
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.pdb
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\Video.baml
+I:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\Video.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\Video.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\Video.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\bin\Debug\BismillahTA.pdb
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.dll
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.pdb
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csprojResolveAssemblyReference.cache
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel4.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\note.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\videoTutorial.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\Video.baml
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel1.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel2.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel3.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpLevel4.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\MainWindow.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\note.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\login2.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Report.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel1.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel2.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel4.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\TrainingLevel3.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\videoTutorial.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\Video.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\App.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_Content.g.cs
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA_MarkupCompile.cache
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.g.resources
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.Properties.Resources.resources
+C:\Users\Rizka\Documents\TAku\TA\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csproj.GenerateResource.Cache
+F:\TAku\TA\BismillahTA\BismillahTA\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpTask1.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpTask2.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpTask4.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpTask3.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Task1.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Task2.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Task4.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Task3.baml
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpTask1.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpTask2.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpTask4.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\HelpTask3.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Task1.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Task2.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Task4.g.cs
+F:\TAku\TA\BismillahTA\BismillahTA\obj\Debug\User Control\Task3.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe.config
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\bin\Debug\BismillahTA.pdb
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.dll
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.xml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\bin\Debug\WPFToolkit.pdb
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csprojResolveAssemblyReference.cache
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\HelpTask1.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\HelpTask2.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\HelpTask4.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\HelpTask3.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\MainWindow.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\note.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\login2.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Report.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Task1.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Task2.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Task4.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Task3.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\videoTutorial.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\Video.baml
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\HelpTask1.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\HelpTask2.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\HelpTask4.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\HelpTask3.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\MainWindow.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\note.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\login2.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Report.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Task1.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Task2.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Task4.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\Task3.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\User Control\videoTutorial.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\Video.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\App.g.cs
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\BismillahTA_MarkupCompile.cache
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\BismillahTA.g.resources
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\BismillahTA.Properties.Resources.resources
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csproj.GenerateResource.Cache
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\BismillahTA.exe
+F:\TAku\TA_try_update\BismillahTA\BismillahTA\obj\Debug\BismillahTA.pdb
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe.config
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\BismillahTA.exe
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\BismillahTA.pdb
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csprojResolveAssemblyReference.cache
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\HelpTask1.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\HelpTask2.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\HelpTask4.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\HelpTask3.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\MainWindow.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\note.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\login2.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Task1.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Task2.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Task4.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Task3.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\videoTutorial.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\Video.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\HelpKalibrasi.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\HelpTask1.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\HelpTask2.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\HelpTask4.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\HelpTask3.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\MainWindow.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\note.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\aboutUs.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Calibration.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\chooseObject.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\FirstPage.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\levelTherapy.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\login2.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Menu.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Profile.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Signup.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Task1.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Task2.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Task4.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Task3.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\videoTutorial.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\Video.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\App.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\BismillahTA_MarkupCompile.cache
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Report.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\Report.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\BismillahTA.g.resources
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\BismillahTA.Properties.Resources.resources
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\BismillahTA.csproj.GenerateResource.Cache
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\bin\Debug\BismillahTA.exe
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\bin\Debug\BismillahTA.pdb
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\bin\Debug\Microsoft.Kinect.dll
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\bin\Debug\Microsoft.Kinect.xml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\TrunkControlTask.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\TrunkControlTask.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\chooseBalance.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\chooseBalance.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\FirstStandingBalance.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\FirstStandingBalance.g.cs
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\BaseUserControl.baml
+D:\Important\Tugas\Akhir\SOURCE CODE + INSTALLASI\BismillahTA\BismillahTA\obj\Debug\User Control\BaseUserControl.g.cs

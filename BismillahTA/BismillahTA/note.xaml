@@ -1,0 +1,19 @@
+﻿<Window x:Class="BismillahTA.note"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Catatan" Height="374.436" Width="755.639">
+    <Grid>
+        <TextBox Name="noteText" HorizontalAlignment="Left" Height="223" Margin="31,28,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="681"/>
+        <Button x:Name="finish" Content="Selesai" Height="43" Margin="585,278,36,0" VerticalAlignment="Top" FontFamily="verdana" FontSize="25" Foreground="WhiteSmoke" Background="#FF2980B9" BorderBrush="{x:Null}" Click="finish_Click">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF2980B9"/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="cancel" Content="Batal" Height="43" Margin="394,278,227,0" VerticalAlignment="Top" FontFamily="verdana" FontSize="25" Foreground="WhiteSmoke" Background="#FF2980B9" BorderBrush="{x:Null}" Click="cancel_Click">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF2980B9"/>
+            </Button.Effect>
+        </Button>
+
+    </Grid>
+</Window>

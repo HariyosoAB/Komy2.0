@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="BismillahTA.User_Control.Signup"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="645" d:DesignWidth="430">
+    <Grid Background="{DynamicResource {x:Static SystemColors.GradientActiveCaptionBrushKey}}">
+        <TextBlock HorizontalAlignment="Left" Height="63" Margin="24,10,0,0" TextWrapping="Wrap" Text="Daftar" VerticalAlignment="Top" Width="177" FontFamily="Verdana" FontSize="40" Foreground="#2980b9"/>
+        <ComboBox TabIndex="0" Name="userCombo" Height="38" Margin="177,97,24,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="15" HorizontalContentAlignment="Center" Loaded="userCombo_Loaded" SelectionChanged="userCombo_SelectionChanged"/>
+        <TextBox TabIndex="1" Name="nameUser" Height="38" Margin="177,154,24,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="15" FontFamily="Verdana" VerticalContentAlignment="Center"/>
+        <TextBox TabIndex="4" Name="ages" Height="38" Margin="177,329,181,0" TextWrapping="Wrap" VerticalAlignment="Top" VerticalContentAlignment="Center" FontFamily="Verdana" FontSize="15"/>
+        <RadioButton TabIndex="5" Name="male" Content="Laki-laki" Height="38" Margin="177,384,148,0" VerticalAlignment="Top" VerticalContentAlignment="Center" FontFamily="Verdana" FontSize="15" Checked="male_Checked"/>
+        <RadioButton TabIndex="6" Name="female" Content="Perempuan" Height="38" Margin="302,384,23,0" VerticalAlignment="Top" VerticalContentAlignment="Center" FontFamily="Verdana" FontSize="15" Checked="female_Checked"/>
+        <TextBox TabIndex="7" Name="address" Height="38" Margin="177,441,24,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Verdana" FontSize="15" VerticalContentAlignment="Center"/>
+        <TextBox TabIndex="2" Name="username" Height="38" Margin="177,214,24,0" TextWrapping="Wrap" VerticalAlignment="Top" VerticalContentAlignment="Center" FontFamily="Verdana" FontSize="15"/>
+        <TextBox TabIndex="3" Name="password" Height="38" Margin="177,271,24,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Verdana" FontSize="15" VerticalContentAlignment="Center"/>
+        <Label Name="errorLabel" Height="45" Margin="19,494,24,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="15" Foreground="Red"/>
+        <Label Content="Sebagai" Height="38" Margin="19,97,296,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="20" Foreground="#2980b9"/>
+        <Label Content="Nama" Height="38" Margin="19,154,296,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="20" Foreground="#2980b9"/>
+        <Label Content="Usia" Height="38" Margin="19,329,296,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="20" Foreground="#2980b9"/>
+        <Label Content="Jenis Kelamin" Height="38" Margin="19,384,258,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="20" Foreground="#2980b9"/>
+        <Label Content="Alamat" Height="38" Margin="19,441,296,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="20" Foreground="#2980b9"/>
+        <Label Name="usernameLabel" Content="Username" Height="38" Margin="19,214,296,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="20" Foreground="#2980b9"/>
+        <Label Name="passwordLabel" Content="Password" Height="38" Margin="19,271,296,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="20" Foreground="#2980b9"/>
+        <Label Content="Tahun" Height="38" Margin="273,329,42,0" VerticalAlignment="Top" FontFamily="Verdana" FontSize="20" Foreground="#2980b9"/>
+        <Button Name="signup" Content="Daftar" Height="39" Margin="289,551,24,0" VerticalAlignment="Top" FontFamily="verdana" FontSize="25" Foreground="WhiteSmoke" Background="#FF2980B9" Click="signup_Click" BorderBrush="{x:Null}">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF487AC3"/>
+            </Button.Effect>
+        </Button>
+        <Button Name="cancel" Content="Batal" Height="39" Margin="105,551,202,0" VerticalAlignment="Top" FontFamily="verdana" FontSize="25" Foreground="WhiteSmoke" Background="#FF2980B9" Click="cancel_Click" BorderBrush="{x:Null}">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF487AC3"/>
+            </Button.Effect>
+        </Button>
+
+    </Grid>
+</UserControl>

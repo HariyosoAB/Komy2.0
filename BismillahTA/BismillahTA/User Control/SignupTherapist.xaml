@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="BismillahTA.User_Control.SignupTherapist"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             Width="470" Height="558">
+    <Grid Background="WhiteSmoke">
+        <TextBlock Text="Registrasi Terapis" HorizontalAlignment="Left" Height="65" Margin="24,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="374" FontFamily="Berlin Sans FB Demi" FontSize="50" Foreground="#FFFFCC28"/>
+        <TextBox Name="therapistName" Height="31" Margin="172,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" BorderBrush="#FFFFCC28" FontSize="16" FontFamily="Berlin Sans FB Demi" VerticalContentAlignment="Center" Padding="5,0" HorizontalAlignment="Left" Width="252"/>
+        <TextBox Name="contact" Height="31" Margin="172,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" VerticalContentAlignment="Center" Padding="5,0" FontSize="16" FontFamily="Berlin Sans FB Demi" BorderBrush="#FFFFCC28" HorizontalAlignment="Left" Width="252"/>
+        <RadioButton Name="male" Content="Laki-Laki" Foreground="#FFFFCC28" Height="21" Margin="172,236,0,0" VerticalAlignment="Top" BorderBrush="#FFFFCC28" FontFamily="Berlin Sans FB Demi" FontSize="16" HorizontalAlignment="Left" Width="138"/>
+        <RadioButton Name="female" Content="Perempuan" Foreground="#FFFFCC28" Height="21" Margin="297,236,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Berlin Sans FB Demi" BorderBrush="#FFFFCC28" HorizontalAlignment="Left" Width="115"/>
+        <Image HorizontalAlignment="Left" Height="37" Margin="318,289,0,0" VerticalAlignment="Top" Width="106" />
+        <Image HorizontalAlignment="Left" Height="37" Margin="172,289,0,0" VerticalAlignment="Top" Width="106" />
+        <Label Content="Nama Terapis" HorizontalAlignment="Left" Height="31" Margin="24,126,0,0" VerticalAlignment="Top" Width="116" Foreground="#FFFFCC28" FontSize="18" FontFamily="Berlin Sans FB Demi"/>
+        <Label Content="Telepon" HorizontalAlignment="Left" Height="31" Margin="24,178,0,0" VerticalAlignment="Top" Width="97" Foreground="#FFFFCC28" FontSize="18" FontFamily="Berlin Sans FB Demi"/>
+        <Label Content="Jenis Kelamin" HorizontalAlignment="Left" Height="31" Margin="24,228,0,0" VerticalAlignment="Top" Width="97" Foreground="#FFFFCC28" FontSize="18" FontFamily="Berlin Sans FB Demi"/>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="BismillahTA.User_Control.InstructionLevel4"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+            d:DesignHeight="737" d:DesignWidth="1016">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/BismillahTA;component/Image/background.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <TextBlock Height="64" Margin="10,19,10,0" TextWrapping="Wrap" Text="Menggerakan Kaki dengan Bebas" VerticalAlignment="Top" FontSize="50" FontFamily="Berlin Sans FB Demi" Foreground="#FFFFCC29" TextAlignment="Center"/>
+        <Rectangle Height="230" Margin="52,351,51,0" Stroke="#FFFFCC29" VerticalAlignment="Top"/>
+        <Image Height="218" Margin="340,88,497,0" VerticalAlignment="Top" Source="/BismillahTA;component/Image/stickman/stepOn1.png"/>
+        <Image Name="nextButton" Height="44" Margin="590,624,300,0" VerticalAlignment="Top" Source="/BismillahTA;component/Image/button/nextButton.png"/>
+        <Image Name="backButton" Height="44" Margin="300,624,590,0" VerticalAlignment="Top" Source="/BismillahTA;component/Image/button/backButton.png"/>
+        <Image Height="218" Margin="519,88,318,0" VerticalAlignment="Top" Source="/BismillahTA;component/Image/stickman/stepOn2.png"/>
+
+    </Grid>
+</UserControl>

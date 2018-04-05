@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="BismillahTA.User_Control.Menu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="737" d:DesignWidth="1340">
+    <Grid Background="#FF2980B9">
+        <Rectangle Name="rect1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="99" Margin="62,98,0,0" VerticalAlignment="Top" Width="99" Opacity="0.6"/>
+        <Rectangle Name="rect2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="99" Margin="62,211,0,0" VerticalAlignment="Top" Width="99" Opacity="0.6"/>
+        <Rectangle Name="rect3" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="99" Margin="62,328,0,0" VerticalAlignment="Top" Width="99" Opacity="0.6"/>
+        <Rectangle Name="rect4" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="99" Margin="62,445,0,0" VerticalAlignment="Top" Width="99" Opacity="0.6"/>
+        <Rectangle Name="rect5" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="99" Margin="62,562,0,0" VerticalAlignment="Top" Width="99" Opacity="0.6"/>
+        <TextBlock Name="nameLabel" Height="55" Margin="543,20,75,0" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Right" Foreground="WhiteSmoke" FontFamily="Verdana" FontSize="30"/>
+        <Image Name="logoutButton" Height="95" Margin="64,102,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="95" Source="/BismillahTA;component/Resources/logout.png" MouseUp="logoutButton_MouseUp" MouseEnter="logoutButton_MouseEnter" MouseLeave="logoutButton_MouseLeave"/>
+        <Image Name="startButton" Height="95" Margin="64,215,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="95" Source="/BismillahTA;component/Resources/start.png" MouseUp="startButton_MouseUp" MouseEnter="startButton_MouseEnter" MouseLeave="startButton_MouseLeave"/>
+        <Image Name="grafikReportButton" Height="95" Margin="64,332,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="95" Source="/BismillahTA;component/Resources/report.png" MouseUp="grafikReportButton_MouseUp" MouseEnter="grafikReportButton_MouseEnter" MouseLeave="grafikReportButton_MouseLeave"/>
+        <Image Name="profileButton" Height="95" Margin="64,449,0,0" VerticalAlignment="Top"  HorizontalAlignment="Left" Width="95" Source="/BismillahTA;component/Resources/signup.png" MouseUp="profileButton_MouseUp" MouseEnter="profileButton_MouseEnter" MouseLeave="profileButton_MouseLeave"/>
+        <Frame Name="menuFrame" Content="Frame" Height="563" Margin="343,98,54,0" VerticalAlignment="Top" BorderBrush="#FF2980B9" BorderThickness="2"/>
+        <Label Name="logoutLabel" Content="Keluar" FontFamily="verdana" FontSize="30" Foreground="WhiteSmoke" HorizontalAlignment="Left" Height="41" Margin="166,125,0,0" VerticalAlignment="Top" Width="124"/>
+        <Label Name="startLabel" Content="Mulai" FontFamily="verdana" FontSize="30" Foreground="WhiteSmoke" HorizontalAlignment="Left" Height="47" Margin="166,238,0,0" VerticalAlignment="Top" Width="124"/>
+        <Label Name="reportLabel" Content="Laporan" FontFamily="verdana" FontSize="30" Foreground="WhiteSmoke" HorizontalAlignment="Left" Height="56" Margin="166,355,0,0" VerticalAlignment="Top" Width="141"/>
+        <Label Name="profileLabel" Content="Profil" FontFamily="verdana" FontSize="30" Foreground="WhiteSmoke" HorizontalAlignment="Left" Height="41" Margin="166,471,0,0" VerticalAlignment="Top" Width="124"/>
+        <Image Name="tutorialButton" Height="95" Margin="64,566,0,0" VerticalAlignment="Top"  HorizontalAlignment="Left" Width="95" Source="/BismillahTA;component/Resources/tutorialvideo.png" MouseEnter="tutorialButton_MouseEnter" MouseLeave="tutorialButton_MouseLeave" MouseUp="tutorialButton_MouseUp"/>
+        <Label Name="tutorialLabel" Content="Tutorial" FontFamily="verdana" FontSize="30" Foreground="WhiteSmoke" HorizontalAlignment="Left" Height="41" Margin="166,590,0,0" VerticalAlignment="Top" Width="124"/>
+
+
+
+
+    </Grid>
+</UserControl>

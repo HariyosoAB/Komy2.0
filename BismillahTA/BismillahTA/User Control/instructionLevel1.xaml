@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="BismillahTA.User_Control.instructionLevel1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="737" d:DesignWidth="1016">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/BismillahTA;component/Image/background.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <TextBlock Height="64" Margin="10,19,10,0" TextWrapping="Wrap" Text="Duduk-Berdiri-Duduk" VerticalAlignment="Top" FontSize="50" FontFamily="Berlin Sans FB Demi" Foreground="#FFFFCC29" TextAlignment="Center"/>
+        <Rectangle Height="230" Margin="52,351,51,0" Stroke="#FFFFCC29" VerticalAlignment="Top"/>
+        <Image Height="189" Margin="247,88,651,0" VerticalAlignment="Top" Source="/BismillahTA;component/Image/stickman/sit1.png"/>
+        <Image Height="178" Margin="465,99,413,0" VerticalAlignment="Top" Source="/BismillahTA;component/Image/stickman/stand.png"/>
+        <Image Height="135" Margin="689,142,219,0" VerticalAlignment="Top" Source="/BismillahTA;component/Image/stickman/sit2.png"/>
+        <Image Name="nextButton" Height="44" Margin="590,624,300,0" VerticalAlignment="Top" Source="/BismillahTA;component/Image/button/nextButton.png"/>
+        <Image Name="backButton" Height="44" Margin="300,624,590,0" VerticalAlignment="Top" Source="/BismillahTA;component/Image/button/backButton.png"/>
+
+    </Grid>
+</UserControl>

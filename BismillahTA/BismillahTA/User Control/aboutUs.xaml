@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="BismillahTA.User_Control.aboutUs"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="645" d:DesignWidth="430">
+    <Grid Background="{DynamicResource {x:Static SystemColors.GradientActiveCaptionBrushKey}}">
+        <TextBlock Height="63" Margin="24,10,25,0" TextWrapping="Wrap" Text="Tentang Kami" VerticalAlignment="Top" FontFamily="Verdana" FontSize="40" Foreground="#2980b9" TextAlignment="Center"/>
+        <TextBlock Name="aboutUsText" Height="197" Margin="24,93,25,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Verdana" FontSize="15" TextAlignment="Center"/>
+        <Image Height="67" Margin="133,347,124,0" VerticalAlignment="Top" Source="/BismillahTA;component/Resources/komySmall.png"/>
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="133,419,0,0" TextWrapping="Wrap" Text="Versi 1.0.0" FontFamily="verdana" VerticalAlignment="Top" Width="173" FontSize="15" TextAlignment="Center"/>
+        <TextBlock Name="clickVideo" HorizontalAlignment="Left" Height="51" Margin="100,506,0,0" TextWrapping="Wrap" Text="Click Video Tutorial" FontFamily="verdana" VerticalAlignment="Top" Foreground="Blue" Width="248" FontSize="20" TextAlignment="Center" MouseUp="TextBlock_MouseUp" MouseEnter="TextBlock_MouseEnter"/>
+
+    </Grid>
+</UserControl>

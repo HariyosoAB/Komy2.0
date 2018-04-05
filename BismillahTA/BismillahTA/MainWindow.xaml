@@ -1,0 +1,9 @@
+﻿<Window x:Class="BismillahTA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Komy" Height="760" Width="1366" Closed="Window_Closed">
+    <Grid>
+        <Frame Name="mainframe" Content="Frame" NavigationUIVisibility="Hidden"/>
+
+    </Grid>
+</Window>
